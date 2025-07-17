@@ -27,7 +27,7 @@ This project mimicks an end-to-end ETL pipeline that automates the ingestion and
 ---
 
 ## Architecture Diagram
-![Pipeline Diagram](images\LMS ETL Diagram.png)
+![Pipeline Diagram](images/LMS_ETL_Diagram.png)
 
 ---
 
